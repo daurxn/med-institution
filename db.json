@@ -1,0 +1,316 @@
+{
+  "specs": [
+    {
+      "id": "surgeon",
+      "name": "Хирург"
+    },
+    {
+      "id": "therapist",
+      "name": "Терапевт"
+    },
+    {
+      "id": "general_practitioner",
+      "name": "Терапевт"
+    },
+    {
+      "id": "cardiologist",
+      "name": "Кардиолог"
+    },
+    {
+      "id": "pediatrician",
+      "name": "Педиатр"
+    },
+    {
+      "id": "gynecologist",
+      "name": "Гинеколог"
+    },
+    {
+      "id": "neurologist",
+      "name": "Невролог"
+    },
+    {
+      "id": "dentist",
+      "name": "Стоматолог"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "13",
+      "spec_id": "dentist",
+      "first": "Екатерина",
+      "last": "Ларина",
+      "patronymic": "Олеговна",
+      "chief": false
+    },
+    {
+      "id": "9",
+      "spec_id": "gynecologist",
+      "first": "Анна",
+      "last": "Гордеева",
+      "patronymic": "Петровна",
+      "chief": false
+    },
+    {
+      "id": "18",
+      "spec_id": "cardiologist",
+      "first": "Ирина",
+      "last": "",
+      "patronymic": "Николаевна",
+      "chief": false
+    },
+    {
+      "id": "4",
+      "spec_id": "cardiologist",
+      "first": "Дмитрий",
+      "last": "Михайлов",
+      "patronymic": "Александрович",
+      "chief": false
+    },
+    {
+      "id": "21",
+      "spec_id": "gynecologist",
+      "first": "Светлана",
+      "last": "Шмидт",
+      "patronymic": "Петровна",
+      "chief": true
+    },
+    {
+      "id": "7",
+      "spec_id": "pediatrician",
+      "first": "Иван",
+      "last": "Лебедев",
+      "patronymic": "Артемович",
+      "chief": true
+    },
+    {
+      "id": "17",
+      "spec_id": "general_practitioner",
+      "first": "Вячеслав",
+      "last": "Чернов",
+      "patronymic": "Анатольевич",
+      "chief": true
+    },
+    {
+      "id": "25",
+      "spec_id": "surgeon",
+      "first": "Марина",
+      "last": "Федорова",
+      "patronymic": "Петровна",
+      "chief": false
+    },
+    {
+      "id": "19",
+      "spec_id": "pediatrician",
+      "first": "Денис",
+      "last": "Фролов",
+      "patronymic": "Сергеевич",
+      "chief": false
+    },
+    {
+      "id": "10",
+      "spec_id": "neurologist",
+      "first": "Владимир",
+      "last": "Павлов",
+      "patronymic": "Григорьевич",
+      "chief": false
+    },
+    {
+      "id": "5",
+      "spec_id": "cardiologist",
+      "first": "Ольга",
+      "last": "Зайцева",
+      "patronymic": "Владимировна",
+      "chief": false
+    },
+    {
+      "id": "12",
+      "spec_id": "dentist",
+      "first": "Тимур",
+      "last": "Галкин",
+      "patronymic": "Юрьевич",
+      "chief": false
+    },
+    {
+      "id": "20",
+      "spec_id": "pediatrician",
+      "first": "Анастасия",
+      "last": "Данилова",
+      "patronymic": "Владимировна",
+      "chief": false
+    },
+    {
+      "id": "22",
+      "spec_id": "neurologist",
+      "first": "Тимофей",
+      "last": "Горин",
+      "patronymic": "Александрович",
+      "chief": false
+    },
+    {
+      "id": "8",
+      "spec_id": "gynecologist",
+      "first": "Маргарита",
+      "last": "Козлова",
+      "patronymic": "Ивановна",
+      "chief": false
+    },
+    {
+      "id": "1",
+      "spec_id": "surgeon",
+      "first": "Алексей",
+      "last": "Иванов",
+      "patronymic": "Викторович",
+      "chief": false
+    },
+    {
+      "id": "2",
+      "spec_id": "therapist",
+      "first": "Марина",
+      "last": "Петрова",
+      "patronymic": "Сергеевна",
+      "chief": false
+    },
+    {
+      "id": "15",
+      "spec_id": "surgeon",
+      "first": "Никита",
+      "last": "Белов",
+      "patronymic": "Игоревич",
+      "chief": false
+    },
+    {
+      "id": "23",
+      "spec_id": "dentist",
+      "first": "Александра",
+      "last": "Мишина",
+      "patronymic": "Павловна",
+      "chief": false
+    },
+    {
+      "id": "11",
+      "spec_id": "neurologist",
+      "first": "Ирина",
+      "last": "Васильева",
+      "patronymic": "Михайловна",
+      "chief": false
+    },
+    {
+      "id": "14",
+      "spec_id": "surgeon",
+      "first": "Роман",
+      "last": "Семенов",
+      "patronymic": "Андреевич",
+      "chief": false
+    },
+    {
+      "id": "3",
+      "spec_id": "general_practitioner",
+      "first": "Елена",
+      "last": "Смирнова",
+      "patronymic": "Анатольевна",
+      "chief": false
+    },
+    {
+      "id": "24",
+      "spec_id": "dentist",
+      "first": "Сергей",
+      "last": "Щербаков",
+      "patronymic": "Станиславович",
+      "chief": false
+    },
+    {
+      "id": "6",
+      "spec_id": "pediatrician",
+      "first": "Наталья",
+      "last": "Тихонова",
+      "patronymic": "Геннадиевна",
+      "chief": false
+    }
+  ],
+  "nurses": [
+    {
+      "id": "1",
+      "spec_id": "surgeon",
+      "first": "Анна",
+      "last": "Федорова",
+      "patronymic": "Петровна"
+    },
+    {
+      "id": "2",
+      "spec_id": "therapist",
+      "first": "Ольга",
+      "last": "Логинова",
+      "patronymic": "Вячеславовна"
+    },
+    {
+      "id": "3",
+      "spec_id": "cardiologist",
+      "first": "Мария",
+      "last": "Белова",
+      "patronymic": "Александровна"
+    },
+    {
+      "id": "4",
+      "spec_id": "general_practitioner",
+      "first": "Наталья",
+      "last": "Завьялова",
+      "patronymic": "Михайловна"
+    },
+    {
+      "id": "5",
+      "spec_id": "gynecologist",
+      "first": "Екатерина",
+      "last": "Смирнова",
+      "patronymic": "Дмитриевна"
+    },
+    {
+      "id": "6",
+      "spec_id": "pediatrician",
+      "first": "Ирина",
+      "last": "Громова",
+      "patronymic": "Андреевна"
+    },
+    {
+      "id": "7",
+      "spec_id": "surgeon",
+      "first": "Маргарита",
+      "last": "Романова",
+      "patronymic": "Анатольевна"
+    },
+    {
+      "id": "8",
+      "spec_id": "therapist",
+      "first": "Светлана",
+      "last": "Тимофеева",
+      "patronymic": "Николаевна"
+    },
+    {
+      "id": "9",
+      "spec_id": "cardiologist",
+      "first": "Валентина",
+      "last": "Кузнецова",
+      "patronymic": "Юрьевна"
+    },
+    {
+      "id": "10",
+      "spec_id": "general_practitioner",
+      "first": "Алена",
+      "last": "Михайлова",
+      "patronymic": "Геннадиевна"
+    },
+    {
+      "id": "11",
+      "spec_id": "gynecologist",
+      "first": "Юлия",
+      "last": "Васильева",
+      "patronymic": "Дмитриевна"
+    },
+    {
+      "id": "12",
+      "spec_id": "pediatrician",
+      "first": "Елена",
+      "last": "Лобова",
+      "patronymic": "Сергеевна"
+    }
+  ]
+}
